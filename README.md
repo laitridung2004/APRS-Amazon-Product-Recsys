@@ -1,4 +1,4 @@
-# Project 13: APRS - Amazon Product RecSys - Group 10
+# Web Mining Capstone Project: APRS - Amazon Product RecSys - Group 10
 
 > *Note: For the full dataset, please direct to this [GGDrive link](https://drive.google.com/drive/folders/1tpj9i3rMBGZ60x9iaY49TMrUyWNtQFd_?usp=sharing).*
 
