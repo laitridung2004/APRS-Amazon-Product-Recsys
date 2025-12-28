@@ -15,7 +15,7 @@ Our approach integrates three distinct modeling paradigms:
 2.  **Semantic Analysis:** Leveraging **BLAIR** (based on RoBERTa) to bridge the gap between user language and item metadata.
 3.  **Graph Neural Networks:** Utilizing **LightGCL** to capture high-order collaborative signals on the user-item graph.
 
-***This project constitutes the Capstone Project for the course "Introduction to Business Analytics (IT4036E)" at Hanoi University of Science and Technology.***
+***This project constitutes the Capstone Project for the course "Web Mining (IT4868E)" at Hanoi University of Science and Technology.***
 
 ***
 
@@ -90,7 +90,7 @@ This dashboard shows the dataset after applying **k-core filtering (k=3)**. This
 
 ## Acknowledgments
 
-We would like to express our sincere gratitude to our lecturer, **Assoc. Prof. Nguyen Binh Minh**, for his invaluable guidance and support throughout the **Introduction to Business Analytics (IT4036E)** course. His expertise was instrumental in shaping the direction of this project.
+We would like to express our sincere gratitude to our lecturer, **Ph.D. Nguyen Kiem Hieu**, for his invaluable guidance and support throughout the **Web Mining (IT4868E)** course. His expertise was instrumental in shaping the direction of this project.
 
 We also acknowledge the authors of the **Amazon Reviews '23** dataset and the open-source community behind the BLAIR and LightGCL frameworks.
 
@@ -98,7 +98,7 @@ We also acknowledge the authors of the **Amazon Reviews '23** dataset and the op
 
 ## Contributors
 
-**Group 10 - Class IT4036E**
+**Group 07 - Class IT4036E**
 
 - **Member 1:** Đàm Quang Đức - 20225483
 - **Member 2:** Lại Trí Dũng - 20225486
